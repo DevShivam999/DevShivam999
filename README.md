@@ -23,11 +23,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamswami&theme=radical" alt="Shivam's GitHub Streak" height="200"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamswami&layout=compact&theme=radical" alt="Top Languages" height="200"/>
-</p>
 
 ---
+### 🧑‍💻 Favorite Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 
 ### 🏆 GitHub Trophies
 
